@@ -1,2 +1,3 @@
-# cheatsheets
-Collection of cheatsheets
+### Acknowledgement
+
+All credits go to cheatsheet's authors. 
